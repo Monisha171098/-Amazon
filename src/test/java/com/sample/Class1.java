@@ -14,4 +14,8 @@ public class Class1 {
 		System.out.println("3");
 
 	}
+	
+	private void method4() {
+		System.out.println("4");
+	}
 }
